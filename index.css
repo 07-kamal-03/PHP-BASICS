@@ -1,0 +1,12 @@
+body
+{
+    background-color: aqua;
+    display:flex;
+    align-items:  center;
+    flex-direction: column;
+}
+.form{
+    border-radius: 35px;
+    background-color: aliceblue;
+    padding: 20px;
+}
